@@ -1,3 +1,5 @@
+//Program to assign a floating point value to an integer variable.
+
 # include <iostream>
 using namespace std;
  int main()
