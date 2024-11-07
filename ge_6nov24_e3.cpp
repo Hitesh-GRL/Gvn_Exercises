@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     // all data types to bool 
-    cout<<"Implicit Conversion";
+    cout<<"Implicit Conversion\n";
     bool a;
     cout<<"all data types to bool\n";
     a = 'a';  // char
@@ -76,7 +76,7 @@ int main()
     //                     V
 
     // all data types to bool 
-    cout<<"Explicit Conversion";
+    cout<<"Explicit Conversion\n";
     
     cout<<"all data types to bool\n";
     a = (bool)'a';  // char
