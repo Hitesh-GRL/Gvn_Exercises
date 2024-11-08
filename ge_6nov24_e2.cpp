@@ -19,7 +19,7 @@ int main()
     cout << "Enter value \n";
     cin >> value;
 
-    bit_enabled_value = ( 1<< (bit_position-1) ) | value ;
+    bit_enabled_value = ( 1 << bit_position ) | value ;   // logic implication
     cout << bit_enabled_value;
 
     return 0;

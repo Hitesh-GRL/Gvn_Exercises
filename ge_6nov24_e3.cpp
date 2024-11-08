@@ -12,7 +12,7 @@ int main()
     a = 'a';  // char
     cout<<a<<endl;
 
-    a = 4;  // int
+    a = 17;  // int
     cout<<a<<endl;
 
     a = 10.01;  // floating point
